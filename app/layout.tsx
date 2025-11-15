@@ -16,7 +16,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Commodities Manager",
+  title: "Slooze",
   description: "Manage your commodities and products",
 };
 
